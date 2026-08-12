@@ -1,7 +1,7 @@
 {
-  "name": "mikes-macaroon-marketed",
+  "name": "jeremy-macaroon-market",
   "version": "1.0.0",
-  "description": "Mike's Macaroon Marketed",
+  "description": "jeremy Macaroon Market",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
