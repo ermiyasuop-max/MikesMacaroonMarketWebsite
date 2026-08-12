@@ -1,7 +1,7 @@
 {
-  "name": "jeremy-macaroon-market",
+  "name": "mikes-macaroon-websitee",
   "version": "1.0.0",
-  "description": "jeremy Macaroon Market",
+  "description": "mikes macaroon websitee",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
