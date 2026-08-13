@@ -1,7 +1,7 @@
 {
-  "name": "mikes-macaroon-websited",
+  "name": "mikes-macaroon-marketed",
   "version": "1.0.0",
-  "description": "mikes macaroon websited",
+  "description": "mikes macaroon marketed",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
